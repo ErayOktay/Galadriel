@@ -17,7 +17,7 @@ Yerel bir geliştirme ortamı (örneğin, VS Code veya herhangi bir metin editö
 
 Adımlar
 
-Depoyu Klonlayın:git clone https://github.com/kullanici/galadriel.git
+Depoyu Klonlayın:git clone https://github.com/ErayOktay/galadriel.git
 
 Proje Dizinine Gidin:cd galadriel
 
@@ -38,15 +38,6 @@ Müzik Çalma: Şarkıları seçin ve oynatma kontrollerini kullanarak oynatın,
 Temayı Değiştirme: Ayarlar menüsünden istediğiniz temayı seçin.
 
 Not: Backend henüz hazır olmadığından, müzik dosyaları yalnızca yerel olarak yüklenebilir ve çalma listeleri tarayıcı belleğinde saklanır.
-Proje Yapısı
-galadriel/
-├── css/
-│ └── style.css # Uygulamanın stilleri
-├── js/
-│ └── app.js # Uygulamanın ana JavaScript dosyası
-├── images/ # Görseller ve ekran görüntüleri
-├── index.html # Uygulamanın ana HTML dosyası
-└── README.md # Bu dosya
 
 Ekran Görüntüleri
 
