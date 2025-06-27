@@ -19,22 +19,16 @@ Adımlar
 
 Depoyu Klonlayın:git clone https://github.com/kullanici/galadriel.git
 
-
 Proje Dizinine Gidin:cd galadriel
-
 
 Dosyaları Açın:
 Proje dosyalarını bir metin editöründe açın (örneğin, VS Code).
 Yerel bir sunucu kullanarak uygulamayı başlatın. Örneğin:npx http-server
 
-
 Alternatif olarak, index.html dosyasını doğrudan bir tarayıcıda açabilirsiniz (ancak bazı özellikler yerel sunucu olmadan çalışmayabilir).
-
 
 Uygulamayı Tarayıcıda Görüntüleyin:
 Tarayıcınızda http://localhost:8080 (veya kullanılan port) adresine gidin.
-
-
 
 Kullanım
 
@@ -47,14 +41,16 @@ Not: Backend henüz hazır olmadığından, müzik dosyaları yalnızca yerel ol
 Proje Yapısı
 galadriel/
 ├── css/
-│   └── style.css          # Uygulamanın stilleri
+│ └── style.css # Uygulamanın stilleri
 ├── js/
-│   └── app.js            # Uygulamanın ana JavaScript dosyası
-├── images/               # Görseller ve ekran görüntüleri
-├── index.html            # Uygulamanın ana HTML dosyası
-└── README.md             # Bu dosya
+│ └── app.js # Uygulamanın ana JavaScript dosyası
+├── images/ # Görseller ve ekran görüntüleri
+├── index.html # Uygulamanın ana HTML dosyası
+└── README.md # Bu dosya
 
 Ekran Görüntüleri
+
+![Front-end Görünümü](img/image.png)
 
 Katkıda Bulunma
 
@@ -63,7 +59,6 @@ Yeni bir özellik dalı oluşturun (git checkout -b feature/yeni-ozellik).
 Değişikliklerinizi yapın ve commit edin (git commit -m 'Yeni özellik eklendi').
 Dalınızı push edin (git push origin feature/yeni-ozellik).
 Bir Pull Request açın.
-
 
 İletişim
 Sorularınız veya önerileriniz için erayoktay02@gmail.com adresinden iletişime geçebilirsiniz.
